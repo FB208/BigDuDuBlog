@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01/java/jdk/"}
+{"dg-publish":true,"permalink":"/01/java/jdk/","tags":["gardenEntry"]}
 ---
 
 
