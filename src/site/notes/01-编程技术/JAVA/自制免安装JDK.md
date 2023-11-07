@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01/java/jdk/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-home":true,"permalink":"/01-编程技术/JAVA/自制免安装JDK/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 
@@ -7,7 +7,7 @@
 
 # 前言
 
-oracle官网提供的windows平台[jdk安装包](https://so.csdn.net/so/search?q=jdk%E5%AE%89%E8%A3%85%E5%8C%85&spm=1001.2101.3001.7020)是exe格式，需要安装，个人觉得挺麻烦的，要是像linux平台的包那样，解压到目录配置个环境变量就可以用就挺方便的。本文旨在记录从jdk安装包exe文件抽取文件并自行打包为免安装版的过程。
+oracle官网提供的windows平台jdk安装包是exe格式，需要安装，个人觉得挺麻烦的，要是像linux平台的包那样，解压到目录配置个环境变量就可以用就挺方便的。本文旨在记录从jdk安装包exe文件抽取文件并自行打包为免安装版的过程。
 
 # 制作过程
 
