@@ -22,8 +22,10 @@ dg-home: true
 
 # 创建站点
 https://app.netlify.com/teams/fb208/overview
+> 创建站点后很久没用，大约过了半年才用起来并整理笔记，笔记仅凭印象，可能不对
 
 1. Digital Garden一键部署
+
 https://app.netlify.com/start/deploy?repository=https://github.com/oleeskild/digitalgarden
 ![assets/Pasted image 20231108225904.png](/img/user/assets/Pasted%20image%2020231108225904.png)
 链接Github、填写仓库名，会自动创建仓库
@@ -33,6 +35,7 @@ https://app.netlify.com/start/deploy?repository=https://github.com/oleeskild/dig
 这个地址复制下来
 
 2. Obsidian配置
+
 下载插件 Digital Garden，配置如下
 **github配置**
 ![assets/Pasted image 20231108230445.png](/img/user/assets/Pasted%20image%2020231108230445.png)
