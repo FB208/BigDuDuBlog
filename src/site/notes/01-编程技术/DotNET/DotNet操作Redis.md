@@ -41,7 +41,22 @@ static void Main(string[] args)
 
  127.0.0.1:6379,password=YourPassword,defaultDatabase=0,prefix=hr\_
 
-
+| Parameter  	|  Default 	| Explain  	| 说明  	|
+|---	|---	|---	|---	|
+|  password 	| 　 	|  Redis server password 	|  Redis服务器密码 	|
+|  defaultDatabase 	|  0 	|  Redis server database 	|  Redis服务器数据库 	|
+|  asyncPipeline 	|  false 	|  The asynchronous method automatically uses   pipeline, and the 10W concurrent time is 450ms (welcome to feedback) 	|  异步方式自动使用管道，10W并发时间450ms（欢迎反馈） 	|
+|  poolsize 	|  50 	|  Connection pool size 	|  连接池大小 	|
+|  idleTimeout 	|  20000 	|  idle time of elements in the connection   pool(MS),suitable for connecting to remote redis server  	|  连接池中元素的空闲时间（MS），适合连接到远程redis服务器 	|
+|  connectTimeout 	|  5000 	|  Connection timeout(MS)  	|  连接超时（毫秒） 	|
+|  syncTimeout 	|  10000 	|  Send / receive timeout(MS)  	|  发送/接收超时（毫秒） 	|
+|  preheat 	|  5 	|  Preheat connections, receive values such as   preheat = 5 preheat 5 connections 	|  预热连接，接收值，例如Preheat=5   Preheat 5 connections 	|
+|  autoDispose 	|  true 	|  Follow system exit event to release   automatically  	|  跟随系统退出事件自动释放 	|
+|  ssl 	|  false 	|  Enable encrypted transmission 	|  启用加密传输 	|
+|  testcluster 	|  true 	|  是否尝试集群模式，阿里云、腾讯云集群需要设置此选项为false 	| 　 	|
+|  tryit 	|  0 	|  Execution error, retry  attempts 	|  执行错误，重试次数 	|
+|  name 	| 　 	|  Connection name, use client list command to   view 	|  连接名称，使用client   list命令查看 	|
+|  prefix 	| 　 	|  key前缀，所有方法都会附带此前缀，csredis.Set(prefix +   "key", 111); 	| 　 	|
 
 
 
