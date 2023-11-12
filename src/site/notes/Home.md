@@ -1,5 +1,5 @@
 ---
-{"banner":"https://api.dujin.org/bing/1920.php","cssclasses":["dashboard"],"obsidianUIMode":"preview","banner_icon":"🏖️","dg-publish":true,"dg-home":true,"banner_y":0.5,"permalink":"/Home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"banner":"https://api.dujin.org/bing/1920.php","cssclasses":["dashboard"],"obsidianUIMode":"preview","banner_icon":"🏖️","dg-publish":true,"dg-home":true,"banner_y":0.5,"permalink":"/Home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2023-11-12T21:47:47.001+08:00"}
 ---
 
 
