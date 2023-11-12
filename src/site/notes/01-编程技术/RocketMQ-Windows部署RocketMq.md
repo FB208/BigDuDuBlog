@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-编程技术/RocketMQ-Windows部署RocketMq/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/01-编程技术/RocketMQ-Windows部署RocketMq/","dgPassFrontmatter":true,"updated":"2023-11-09T17:11:34.000+08:00"}
 ---
 
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [blog.csdn.net](https://blog.csdn.net/qq_45872465/article/details/122961677?spm=1001.2014.3001.5502)
