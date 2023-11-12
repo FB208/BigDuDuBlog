@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-编程技术/【tomcat】与【nginx】配置-持续更新/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/01-编程技术/【tomcat】与【nginx】配置-持续更新/","dgPassFrontmatter":true,"updated":"2023-11-09T17:12:37.000+08:00"}
 ---
 
 #nginx  #tomcat
