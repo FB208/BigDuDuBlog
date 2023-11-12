@@ -1,5 +1,5 @@
 ---
-{"banner":"https://api.dujin.org/bing/1920.php","cssclasses":["dashboard"],"obsidianUIMode":"preview","banner_icon":"🏖️","dg-publish":true,"dg-home":true,"permalink":"/Home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"banner":"https://api.dujin.org/bing/1920.php","cssclasses":["dashboard"],"obsidianUIMode":"preview","banner_icon":"🏖️","dg-publish":true,"dg-home":true,"banner_y":0.5,"permalink":"/Home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 
@@ -94,6 +94,6 @@
 
 -   〽️ Stats
 
-    -   File Count: 477
+    -   File Count: 478
 
     -   Personal recipes: 
