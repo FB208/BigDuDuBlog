@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-编程技术/DotNET/【WPF】特殊功能/","dgPassFrontmatter":true,"created":"2023-10-27T09:00:33.420+08:00","updated":"2023-11-09T17:13:01.000+08:00"}
+{"dg-publish":true,"permalink":"/01-编程技术/DotNET/【WPF】特殊功能/","dgPassFrontmatter":true,"created":"2023-10-27T09:00:33.420+08:00","updated":"2023-11-16T08:51:25.704+08:00"}
 ---
 
 #wpf 
@@ -10,7 +10,7 @@
 private void Grid_Loaded(object sender, RoutedEventArgs e)
 {
 	WebBrowser webBrowser = new WebBrowser();
-	webBrowser.Source = new Uri("http://qiniu.bigdudu.cn/比对软件使用说明.pdf");
+	webBrowser.Source = new Uri("https://qiniu.bigdudu.cn/比对软件使用说明.pdf");
 	this.Content = webBrowser;
 }
 ```
