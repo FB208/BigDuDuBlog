@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-编程技术/前端/VSCode插件/","dgPassFrontmatter":true,"created":"2023-10-27T08:59:51.452+08:00","updated":"2023-11-13T19:47:42.484+08:00"}
+{"dg-publish":true,"permalink":"/01-编程技术/前端/VSCode插件/","dgPassFrontmatter":true,"created":"2023-10-27T08:59:51.452+08:00","updated":"2023-11-23T15:29:16.000+08:00"}
 ---
 
 #VisualStudioCode #vscode #vscode插件
