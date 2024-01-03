@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-编程技术/前端/JS文字转语音朗读/","dgPassFrontmatter":true,"created":"2023-10-27T09:00:35.316+08:00","updated":"2023-11-23T15:29:16.000+08:00"}
+{"dg-publish":true,"permalink":"/01-编程技术/前端/JS文字转语音朗读/","dgPassFrontmatter":true,"created":"2023-10-27T09:00:35.316+08:00","updated":"2023-12-27T08:56:15.000+08:00"}
 ---
 
 
