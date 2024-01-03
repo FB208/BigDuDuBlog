@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-Obsidian技术/Obsidian发布博客/","dgPassFrontmatter":true,"created":"2023-11-08T08:12:47.890+08:00","updated":"2023-11-25T21:16:23.000+08:00"}
+{"dg-publish":true,"permalink":"/06-Obsidian技术/Obsidian发布博客/","dgPassFrontmatter":true,"created":"2023-11-08T08:12:47.890+08:00","updated":"2023-12-29T21:05:42.000+08:00"}
 ---
 
 #博客 #blob #netlify #github
