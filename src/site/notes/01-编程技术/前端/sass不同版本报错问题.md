@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-编程技术/前端/sass不同版本报错问题/","dgPassFrontmatter":true,"created":"2023-10-27T09:00:35.314+08:00","updated":"2023-12-27T08:56:15.000+08:00"}
+{"dg-publish":true,"permalink":"/01-编程技术/前端/sass不同版本报错问题/","dgPassFrontmatter":true,"created":"2023-10-26T22:43:44.230+08:00","updated":"2024-01-11T08:37:40.000+08:00"}
 ---
 
 ![image.png](/img/user/assets/1654092309353-90ef6ef2-60ae-4701-80cd-319e4651916c.png)
