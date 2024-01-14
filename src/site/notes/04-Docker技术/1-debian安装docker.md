@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-Docker技术/1-debian安装docker/","dgPassFrontmatter":true,"created":"2023-10-27T09:00:33.352+08:00","updated":"2023-12-27T08:56:14.000+08:00"}
+{"dg-publish":true,"title":"1-debian安装docker","categories":[],"tags":[],"halo":{"site":"http://121.41.99.125:8090","name":"c629ca02-b9f3-4175-a6a4-3f57d5c6fefb","publish":false},"permalink":"/04-Docker技术/1-debian安装docker/","dgPassFrontmatter":true,"created":"2023-10-26T22:43:40.250+08:00","updated":"2024-01-11T08:37:35.000+08:00"}
 ---
 
 #debian装机系列 
