@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-编程技术/XML解析/","dgPassFrontmatter":true,"created":"2023-10-27T08:59:53.232+08:00","updated":"2023-12-27T08:56:16.000+08:00"}
+{"dg-publish":true,"permalink":"/01-编程技术/XML解析/","dgPassFrontmatter":true,"created":"2023-10-26T22:42:22.815+08:00","updated":"2024-01-11T08:37:52.000+08:00"}
 ---
 
 #xml
