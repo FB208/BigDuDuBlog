@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-编程技术/前端/【转】Flex 布局/","dgPassFrontmatter":true,"created":"2023-10-27T09:00:35.305+08:00","updated":"2023-12-27T08:56:15.000+08:00"}
+{"dg-publish":true,"permalink":"/01-编程技术/前端/【转】Flex 布局/","dgPassFrontmatter":true,"created":"2023-10-26T22:43:44.196+08:00","updated":"2024-01-11T08:37:48.000+08:00"}
 ---
 
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.runoob.com](https://www.runoob.com/w3cnote/flex-grammar.html)
