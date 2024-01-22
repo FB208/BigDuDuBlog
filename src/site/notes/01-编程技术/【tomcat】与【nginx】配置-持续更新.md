@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-编程技术/【tomcat】与【nginx】配置-持续更新/","dgPassFrontmatter":true,"created":"2023-10-26T22:43:43.935+08:00","updated":"2023-11-09T17:12:37.000+08:00"}
+{"dg-publish":true,"permalink":"/01-编程技术/【tomcat】与【nginx】配置-持续更新/","dgPassFrontmatter":true,"created":"2023-10-27T09:00:35.247+08:00","updated":"2024-01-19T08:47:54.000+08:00"}
 ---
 
 #nginx  #tomcat
@@ -28,8 +28,8 @@
 />
 ```
 
-2. nginx<br />修改nginx.conf，在http节点下添加如下配置
-
+2. nginx
+修改nginx.conf，在http节点下添加如下配置
 ```nginx
    # 开启gzip
    gzip on;
@@ -214,4 +214,22 @@ nginx -V
 
 # 安装ipv6模块
 
+```
+
+
+# nginx
+
+## nginx部署vue项目，刷新404
+
+```nginx
+location / {
+    try_files $uri $uri/ /index.html;
+}
+```
+请注意，上述配置假设您的Vue项目已在Nginx的根目录下。如果您的项目位于子目录中，例如 `/myproject`，则需要相应地调整Nginx配置：
+
+```nginx
+location /myproject/ {
+    try_files $uri $uri/ /myproject/index.html;
+}
 ```
