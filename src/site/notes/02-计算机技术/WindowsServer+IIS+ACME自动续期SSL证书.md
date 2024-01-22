@@ -104,6 +104,7 @@ mouday/domain-admin:latest
 注意要把剩余天数调高，如已经配置了一个证书100天到期，剩余天数就要设置101天，才能发送邮件
 ![assets/Pasted image 20240122162640.png](/img/user/assets/Pasted%20image%2020240122162640.png)
 
+邮件样式
 ![assets/Pasted image 20240122162744.png](/img/user/assets/Pasted%20image%2020240122162744.png)
 
 </div></div>
