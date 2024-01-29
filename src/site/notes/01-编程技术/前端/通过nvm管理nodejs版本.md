@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-编程技术/前端/通过nvm管理nodejs版本/","dgPassFrontmatter":true,"created":"2023-10-27T08:59:53.248+08:00","updated":"2024-01-19T08:47:55.000+08:00"}
+{"dg-publish":true,"permalink":"/01-编程技术/前端/通过nvm管理nodejs版本/","dgPassFrontmatter":true,"created":"2023-10-27T08:59:53.248+08:00","updated":"2024-01-22T09:37:35.000+08:00"}
 ---
 
 
