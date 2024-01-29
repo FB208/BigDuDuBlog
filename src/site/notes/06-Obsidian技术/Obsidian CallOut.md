@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-Obsidian技术/Obsidian CallOut/","dgPassFrontmatter":true,"created":"2023-11-13T08:10:19.991+08:00","updated":"2024-01-19T08:47:54.000+08:00"}
+{"dg-publish":true,"permalink":"/06-Obsidian技术/Obsidian CallOut/","dgPassFrontmatter":true,"created":"2023-11-13T08:10:19.991+08:00","updated":"2024-01-22T09:37:34.000+08:00"}
 ---
 
 
