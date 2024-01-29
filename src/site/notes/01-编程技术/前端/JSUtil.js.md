@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-编程技术/前端/JSUtil.js/","dgPassFrontmatter":true,"created":"2023-10-27T09:00:35.318+08:00","updated":"2024-01-19T08:47:56.000+08:00"}
+{"dg-publish":true,"permalink":"/01-编程技术/前端/JSUtil.js/","dgPassFrontmatter":true,"created":"2023-10-27T09:00:35.318+08:00","updated":"2024-01-22T09:37:37.000+08:00"}
 ---
 
 
