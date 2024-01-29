@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-计算机技术/WindowsServer+IIS+ACME自动续期SSL证书/","dgPassFrontmatter":true,"created":"2024-01-22T11:45:34.479+08:00","updated":"2024-01-22T16:01:45.781+08:00"}
+{"dg-publish":true,"permalink":"/02-计算机技术/WindowsServer+IIS+ACME自动续期SSL证书/","dgPassFrontmatter":true,"created":"2024-01-22T11:45:34.479+08:00","updated":"2024-01-22T21:44:41.000+08:00"}
 ---
 
 #WindowsServer #LetsEncrypt #iis  #ssl证书续期 #https
