@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-编程技术/JAVA/自制免安装JDK/","dgPassFrontmatter":true,"created":"2023-10-27T08:59:53.233+08:00","updated":"2024-01-19T08:47:56.000+08:00"}
+{"dg-publish":true,"permalink":"/01-编程技术/JAVA/自制免安装JDK/","dgPassFrontmatter":true,"created":"2023-10-27T08:59:53.233+08:00","updated":"2024-01-22T09:37:37.000+08:00"}
 ---
 
 
